@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: darkgreen;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+p {
+  font-style: italic;
+}
